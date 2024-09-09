@@ -5,16 +5,28 @@ Merupakan project akhir KKN yaitu Prediksi Penderita Stunding di Desa Baregbeg
 
 #### hasil
 ##### Menggunakan Neural Network
-Hasil Prdiksi:
+Hasil Prediksi:
+![NNA](hasil/nna.png)
+Akurasi:
+![Akurasi NNA](hasil/akurasiNNA.png)
 
 #### hasil
 ##### Menggunakan Holt Winters
-Hasil Prdiksi:
+Hasil Prediksi:
+![hw](hasil/hw.png)
+Akurasi:
+![Akurasi HW](hasil/AKURASIHW.png)
 
 #### hasil
 ##### Menggunakan ARIMA
-Hasil Prdiksi:
+Hasil Prediksi:
+![ARIMA](hasil/ARIMA.png)
+Akurasi:
+![Akurasi ARIMA](hasil/akurasiARIMA.png)
 
 #### hasil
 ##### Menggunakan State Space
 Hasil Prdiksi:
+![SS](hasil/STATESPACE.png)
+Akurasi:
+![Akurasi ss](hasil/akurasiSTATESPACE.png)
